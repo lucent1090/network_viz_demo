@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1600 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="group-01" transform="matrix(1,0,0,1,70.4903,-72.6657)">
+        <circle cx="311.25" cy="310.138" r="130.38" style="fill:rgb(43,213,99);"/>
+        <g transform="matrix(1,0,0,1,18.9365,19.6616)">
+            <text x="242.383px" y="308.135px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33px;">Node 1</text>
+        </g>
+    </g>
+    <g id="group02" transform="matrix(1,0,0,1,906.485,69.2058)">
+        <circle cx="311.25" cy="310.138" r="130.38" style="fill:rgb(235,235,235);"/>
+        <g transform="matrix(1,0,0,1,22.7762,23.0041)">
+            <text x="242.383px" y="308.135px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:33px;">Node 2</text>
+        </g>
+    </g>
+</svg>
