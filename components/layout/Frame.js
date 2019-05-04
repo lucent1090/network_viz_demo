@@ -24,7 +24,10 @@ class Frame extends React.Component {
 }
 
 Frame.propTypes = {
-  children: PropTypes.element.isRequired,
+  children: PropTypes.oneOfType([
+    PropTypes.element,
+    PropTypes.array,
+  ]).isRequired,
   width: PropTypes.number.isRequired,
   height: PropTypes.number.isRequired,
   frameIndex: PropTypes.number.isRequired,

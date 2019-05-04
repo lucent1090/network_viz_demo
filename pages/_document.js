@@ -16,7 +16,6 @@ export default class MyDocument extends Document {
         <Head>
           <meta charSet="utf-8" />
           <meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1.0, minimum-scale=1.0, user-scalable=no" />
-          <title>Network analysis visualization</title>
           {this.props.styleTags}
         </Head>
         <body>
